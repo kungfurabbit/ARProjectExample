@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CastlePlace" size="1.000000 1.006493" />
+    <ImageTarget name="Tree" size="1.000000 1.006493" />
+    <ImageTarget name="FireBallCard" size="1.000000 0.927419" />
+    <ImageTarget name="Soldier" size="1.000000 1.006493" />
+    <ImageTarget name="NissanGTR" size="1.000000 1.006493" />
+  </Tracking>
+</QCARConfig>
